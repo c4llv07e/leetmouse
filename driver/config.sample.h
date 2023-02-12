@@ -19,6 +19,7 @@
 #define SENS_CAP 2.2f
 #define OFFSET 0.0f
 #define SPEED_CAP 0.0f
+#define MIDPOINT 1.0f
 #define EXPONENT 0.0f
 
 #define ACCELERATION_MODE 1
